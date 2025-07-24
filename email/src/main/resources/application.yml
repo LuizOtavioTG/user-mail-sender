@@ -14,9 +14,9 @@ spring:
       dialect: org.hibernate.dialect.PostgreSQLDialect
 
   rabbitmq:
-    addresses: amqps://flujqnbv:cKUyLwOxUxJr6PDHy7kKnA44ekkKTiOa@jaragua.lmq.cloudamqp.com
+    addresses: amqps://flujqnbv:xx.lmq.cloudamqp.com
     username: flujqnbv
-    password: cKUyLwOxUxJr6PDHy7kKnA44ekkKTiOa
+    password: xx
     virtual-host: flujqnbv
 
 
